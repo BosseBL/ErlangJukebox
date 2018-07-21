@@ -1,0 +1,15 @@
+HTTP request:
+
+
+GET / HTTP/1.0<cr><lf>
+Host: mp3-vr-128.smgradio.com<cr><lf>
+User-Agent: Casty<cr><lf>
+Icy-MetaData: 1<cr><lf>
+<cr><lf>
+
+
+icy meta-data:
+
+[k]StreamTitle='Blur-The Universal';StreamUrl='TrackID=835&Time=1387288517&Cart=E538';
+
+k*16 = antal tecken + rest nollor
